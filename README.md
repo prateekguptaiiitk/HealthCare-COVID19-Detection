@@ -1,2 +1,2 @@
 # HealthCare-COVID19-Detection
-COVID-19 detection using lung X-ray images
+COVID-19 detection using lung X-ray images using Keras and OpenCV
