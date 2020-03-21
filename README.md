@@ -86,8 +86,9 @@ Jupyter notebook containing code for training detection model. Uses Keras and Te
 
 ## Usage
 
+Use following command in terminal:
 <pre>
- python usage.py --image /Path/To/Image/
+ $python usage.py --image /Path/To/Image/
 </pre>
 
 ## Author
