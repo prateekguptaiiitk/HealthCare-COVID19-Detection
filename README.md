@@ -76,7 +76,7 @@ Jupyter notebook containing code for training detection model. Uses Keras and Te
 
 ### Classification Report
 
-<img src="https://github.com/prateekguptaiiitk/HealthCare-COVID19-Detection/blob/master/CMMatrix.png">
+<img src="https://github.com/prateekguptaiiitk/HealthCare-COVID19-Detection/blob/master/ConfusionMatrix.png">
 
 <pre>
 	Accuracy: 96.43%
