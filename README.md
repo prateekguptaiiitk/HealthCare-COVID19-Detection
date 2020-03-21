@@ -84,6 +84,12 @@ Jupyter notebook containing code for training detection model. Uses Keras and Te
 	Specificity: 0.9286
 </pre>
 
+## Usage
+
+<pre>
+ python usage.py --image /Path/To/Image/
+</pre>
+
 ## Author
 
 <table>
