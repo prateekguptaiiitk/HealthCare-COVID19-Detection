@@ -92,6 +92,10 @@ Use following command in terminal:
  $python usage.py --image /Path/To/Image/
 </pre>
 
+## Video Walkthrough - 
+
+1. https://drive.google.com/file/d/1KJX21kGwtGFn4upfVX9LmuDZTgX6BdwW/view?usp=sharing
+2. https://drive.google.com/drive/folders/1YPMAR9lBwCItHpOU1cr-lvEYrzEFsFY2
 ## Author
 
 <table>
