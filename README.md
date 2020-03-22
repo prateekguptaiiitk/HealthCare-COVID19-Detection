@@ -1,5 +1,5 @@
 # HealthCare: COVID19 Detection From X-Ray Images
-Automatic detection of COVID-19 from X-ray images of lungs using Keras and Tensorflow in Deep Learning.
+Automatic detection of COVID-19 from X-ray images of lungs using OpenCV, Keras and Tensorflow in Deep Learning.
 
 ## Directory Structure
 
