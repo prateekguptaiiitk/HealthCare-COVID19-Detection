@@ -68,7 +68,7 @@ Layer-wise detailed model image which was used for training and testing.
 
 ### [train_COVID19.ipynb](https://github.com/prateekguptaiiitk/HealthCare-COVID19-Detection/blob/master/train_COVID19.ipynb)
 
-Jupyter notebook containing code for training detection model. Uses Keras and Tensorflow for training and validation.
+Jupyter notebook containing code for training detection model which uses Keras and Tensorflow for training and validation.
 
 ## Results
 
