@@ -40,7 +40,8 @@ Automatic detection of COVID-19 from X-ray images of lungs using Keras and Tenso
 
 ### [Dataset_Collection.ipynb](https://github.com/prateekguptaiiitk/HealthCare-COVID19-Detection/blob/master/Dataset_Collection.ipynb)
 
-Jupyter notebook for collecting training and testing dataset of lung images. Uses publicly available data for storing positive and negative **COVID-19** images.
+Jupyter notebook for collecting training and testing dataset of lung images. Uses publicly available data for storing  **COVID-19**
+positive and negative images.
 
 ### [Evaluate_COVID19.ipynb](https://github.com/prateekguptaiiitk/HealthCare-COVID19-Detection/blob/master/Evaluate_COVID19.ipynb)
 
